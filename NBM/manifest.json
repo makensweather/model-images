@@ -1,0 +1,482 @@
+[
+  {
+    "period": "24-hr",
+    "view": "Canada",
+    "seq": 1,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_Canada_001.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "Canada",
+    "seq": 2,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_Canada_002.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "Canada",
+    "seq": 3,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_Canada_003.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "Canada",
+    "seq": 4,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_Canada_004.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "Canada",
+    "seq": 5,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_Canada_005.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "Canada",
+    "seq": 6,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_Canada_006.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "Canada",
+    "seq": 7,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_Canada_007.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "Canada",
+    "seq": 8,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_Canada_008.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CanadianPrairies",
+    "seq": 1,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CanadianPrairies_001.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CanadianPrairies",
+    "seq": 2,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CanadianPrairies_002.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CanadianPrairies",
+    "seq": 3,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CanadianPrairies_003.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CanadianPrairies",
+    "seq": 4,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CanadianPrairies_004.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CanadianPrairies",
+    "seq": 5,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CanadianPrairies_005.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CanadianPrairies",
+    "seq": 6,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CanadianPrairies_006.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CanadianPrairies",
+    "seq": 7,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CanadianPrairies_007.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CanadianPrairies",
+    "seq": 8,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CanadianPrairies_008.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CentralPlains",
+    "seq": 1,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CentralPlains_001.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CentralPlains",
+    "seq": 2,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CentralPlains_002.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CentralPlains",
+    "seq": 3,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CentralPlains_003.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CentralPlains",
+    "seq": 4,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CentralPlains_004.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CentralPlains",
+    "seq": 5,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CentralPlains_005.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CentralPlains",
+    "seq": 6,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CentralPlains_006.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CentralPlains",
+    "seq": 7,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CentralPlains_007.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "CentralPlains",
+    "seq": 8,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_CentralPlains_008.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "EasternCanada",
+    "seq": 1,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_EasternCanada_001.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "EasternCanada",
+    "seq": 2,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_EasternCanada_002.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "EasternCanada",
+    "seq": 3,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_EasternCanada_003.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "EasternCanada",
+    "seq": 4,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_EasternCanada_004.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "EasternCanada",
+    "seq": 5,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_EasternCanada_005.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "EasternCanada",
+    "seq": 6,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_EasternCanada_006.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "EasternCanada",
+    "seq": 7,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_EasternCanada_007.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "EasternCanada",
+    "seq": 8,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_EasternCanada_008.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "NorthernPlains",
+    "seq": 1,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_NorthernPlains_001.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "NorthernPlains",
+    "seq": 2,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_NorthernPlains_002.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "NorthernPlains",
+    "seq": 3,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_NorthernPlains_003.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "NorthernPlains",
+    "seq": 4,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_NorthernPlains_004.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "NorthernPlains",
+    "seq": 5,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_NorthernPlains_005.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "NorthernPlains",
+    "seq": 6,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_NorthernPlains_006.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "NorthernPlains",
+    "seq": 7,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_NorthernPlains_007.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "NorthernPlains",
+    "seq": 8,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_NorthernPlains_008.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthernPlains",
+    "seq": 1,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthernPlains_001.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthernPlains",
+    "seq": 2,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthernPlains_002.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthernPlains",
+    "seq": 3,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthernPlains_003.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthernPlains",
+    "seq": 4,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthernPlains_004.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthernPlains",
+    "seq": 5,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthernPlains_005.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthernPlains",
+    "seq": 6,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthernPlains_006.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthernPlains",
+    "seq": 7,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthernPlains_007.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthernPlains",
+    "seq": 8,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthernPlains_008.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthwestCanada",
+    "seq": 1,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthwestCanada_001.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthwestCanada",
+    "seq": 2,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthwestCanada_002.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthwestCanada",
+    "seq": 3,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthwestCanada_003.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthwestCanada",
+    "seq": 4,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthwestCanada_004.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthwestCanada",
+    "seq": 5,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthwestCanada_005.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthwestCanada",
+    "seq": 6,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthwestCanada_006.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthwestCanada",
+    "seq": 7,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthwestCanada_007.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "SouthwestCanada",
+    "seq": 8,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_SouthwestCanada_008.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "US",
+    "seq": 1,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_US_001.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "US",
+    "seq": 2,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_US_002.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "US",
+    "seq": 3,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_US_003.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "US",
+    "seq": 4,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_US_004.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "US",
+    "seq": 5,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_US_005.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "US",
+    "seq": 6,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_US_006.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "US",
+    "seq": 7,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_US_007.png"
+  },
+  {
+    "period": "24-hr",
+    "view": "US",
+    "seq": 8,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_24-hr_US_008.png"
+  },
+  {
+    "period": "3-day",
+    "view": "Canada",
+    "seq": 9,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_3-day_Canada_009.png"
+  },
+  {
+    "period": "3-day",
+    "view": "CanadianPrairies",
+    "seq": 9,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_3-day_CanadianPrairies_009.png"
+  },
+  {
+    "period": "3-day",
+    "view": "CentralPlains",
+    "seq": 9,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_3-day_CentralPlains_009.png"
+  },
+  {
+    "period": "3-day",
+    "view": "EasternCanada",
+    "seq": 9,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_3-day_EasternCanada_009.png"
+  },
+  {
+    "period": "3-day",
+    "view": "NorthernPlains",
+    "seq": 9,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_3-day_NorthernPlains_009.png"
+  },
+  {
+    "period": "3-day",
+    "view": "SouthernPlains",
+    "seq": 9,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_3-day_SouthernPlains_009.png"
+  },
+  {
+    "period": "3-day",
+    "view": "SouthwestCanada",
+    "seq": 9,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_3-day_SouthwestCanada_009.png"
+  },
+  {
+    "period": "3-day",
+    "view": "US",
+    "seq": 9,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_3-day_US_009.png"
+  },
+  {
+    "period": "7-day",
+    "view": "Canada",
+    "seq": 10,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_7-day_Canada_010.png"
+  },
+  {
+    "period": "7-day",
+    "view": "CanadianPrairies",
+    "seq": 10,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_7-day_CanadianPrairies_010.png"
+  },
+  {
+    "period": "7-day",
+    "view": "CentralPlains",
+    "seq": 10,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_7-day_CentralPlains_010.png"
+  },
+  {
+    "period": "7-day",
+    "view": "EasternCanada",
+    "seq": 10,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_7-day_EasternCanada_010.png"
+  },
+  {
+    "period": "7-day",
+    "view": "NorthernPlains",
+    "seq": 10,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_7-day_NorthernPlains_010.png"
+  },
+  {
+    "period": "7-day",
+    "view": "SouthernPlains",
+    "seq": 10,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_7-day_SouthernPlains_010.png"
+  },
+  {
+    "period": "7-day",
+    "view": "SouthwestCanada",
+    "seq": 10,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_7-day_SouthwestCanada_010.png"
+  },
+  {
+    "period": "7-day",
+    "view": "US",
+    "seq": 10,
+    "url": "https://raw.githubusercontent.com/makensweather/model-images/refs/heads/main/NBM/apcpsfc_7-day_US_010.png"
+  }
+]
