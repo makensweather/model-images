@@ -1,0 +1,21 @@
+Station,ForecastTime,Period,CHSI,CCSI,StressCategory
+KBBW,Day 1 00Z,Night,,77.2,Mild Cold Stress
+KBBW,Day 1 12Z,Day,69.3,,No Heat Stress
+KBBW,Day 2 00Z,Night,,96.7,No Cold Stress
+KBBW,Day 2 12Z,Day,81.3,,Mild Heat Stress
+KBBW,Day 3 00Z,Night,,90.4,No Cold Stress
+KBBW,Day 3 12Z,Day,79.3,,Mild Heat Stress
+KBBW,Day 4 00Z,Night,,96.4,No Cold Stress
+KBBW,Day 4 12Z,Day,84.9,,Mild Heat Stress
+KBBW,Day 5 00Z,Night,,104.4,No Cold Stress
+KBBW,Day 5 12Z,Day,98.5,,High Heat Stress
+KBBW,Day 6 00Z,Night,,104.8,No Cold Stress
+KBBW,Day 6 12Z,Day,87.7,,Moderate Heat Stress
+KBBW,Day 7 00Z,Night,,99.5,No Cold Stress
+KBBW,Day 7 12Z,Day,87.6,,Moderate Heat Stress
+KBBW,Day 8 00Z,Night,,74.8,Mild Cold Stress
+KBBW,Day 8 12Z,Day,115.5,,Extreme Heat Stress
+KBBW,Day 9 00Z,Night,,77.1,Mild Cold Stress
+KBBW,Day 9 12Z,Day,120.4,,Extreme Heat Stress
+KBBW,Day 10 00Z,Night,,78.0,Mild Cold Stress
+KBBW,Day 10 12Z,Day,124.3,,Extreme Heat Stress
