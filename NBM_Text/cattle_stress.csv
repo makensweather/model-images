@@ -13,9 +13,10 @@ KBBW,Day 6 00Z,Day,116.2,,Extreme Heat Stress
 KBBW,Day 6 12Z,Night,,77.1,Mild Cold Stress
 KBBW,Day 7 00Z,Day,110.4,,Extreme Heat Stress
 KBBW,Day 7 12Z,Night,,76.4,Mild Cold Stress
-KBBW,Day 8 12Z,Day,76.4,,Mild Heat Stress
-KBBW,Day 8 00Z,Night,,97.7,No Cold Stress
-KBBW,Day 9 12Z,Day,78.7,,Mild Heat Stress
-KBBW,Day 9 00Z,Night,,109.2,No Cold Stress
-KBBW,Day 10 12Z,Day,80.0,,Mild Heat Stress
-KBBW,Day 10 00Z,Night,,111.8,No Cold Stress
+KBBW,Day 8 00Z,Day,98.9,,High Heat Stress
+KBBW,Day 8 12Z,Night,,74.8,Mild Cold Stress
+KBBW,Day 9 00Z,Day,101.3,,High Heat Stress
+KBBW,Day 9 12Z,Night,,77.1,Mild Cold Stress
+KBBW,Day 10 00Z,Day,112.8,,Extreme Heat Stress
+KBBW,Day 10 12Z,Night,,78.0,Mild Cold Stress
+KBBW,Day 11 00Z,Day,115.8,,Extreme Heat Stress
